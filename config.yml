@@ -1,3 +1,2 @@
 config:
-  git:
-    uri: git@github.com:nihaona/springcloud-config.git
+  info: master branch,springcloud-config/config-dev.yml version=1
