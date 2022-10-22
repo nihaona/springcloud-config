@@ -1,0 +1,3 @@
+config:
+  git:
+    uri: git@github.com:nihaona/springcloud-config.git
